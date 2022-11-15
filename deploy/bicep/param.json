@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {          
       "suffix": {
-        "value": "<suffix>"
+        "value": "synapse-ws-olmolo-neu"
       },
       "sqlAdministratorLogin":{
-        "value": "<your admin>"
+        "value": "olmolo"
       },
       "sqlAdministratorLoginPassword":{
-        "value": "<your password>"
+        "value": "olmolo365!"
       },
       "userObjectId":{
-        "value": "<your user objid>"
+        "value": "0a64cfc0-9b43-4b8e-b0dc-a90d39b98830"
       },
       "dataLakeUrlFormat":{
         "value": "https://{0}.dfs.core.windows.net"
