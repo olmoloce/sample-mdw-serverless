@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {          
       "suffix": {
-        "value": "synapse-ws-olmolo-neu"
+        "value": "synapsews1olmolo1neu"
       },
       "sqlAdministratorLogin":{
         "value": "olmolo"
