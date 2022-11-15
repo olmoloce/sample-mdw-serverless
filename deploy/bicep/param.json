@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {          
       "suffix": {
-        "value": "synapsews1olmolo1neu"
+        "value": "olmolo1neu"
       },
       "sqlAdministratorLogin":{
         "value": "olmolo"
@@ -15,7 +15,7 @@
         "value": "0a64cfc0-9b43-4b8e-b0dc-a90d39b98830"
       },
       "dataLakeUrlFormat":{
-        "value": "https://{0}.dfs.core.windows.net"
+        "value": "https://adlsolmolo.dfs.core.windows.net"
       },
       "endIpAddress":{
         "value": "255.255.255.255"
